@@ -9,3 +9,7 @@ A simple implementation of symbol table that will be used in a C compiler. It wa
 #### 1. put the inputs in **input.txt**
 #### 2. run  **2005036_main.cpp**
 
+## Related
+
+The full CSE 310, BUET 
+[Compiler](https://github.com/TawhidMM/C_Compiler)
